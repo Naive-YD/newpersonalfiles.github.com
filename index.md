@@ -8,7 +8,6 @@
       <p><b>邮箱：472675821@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/1579258216317.jpeg" width="100%"> 
     </td>
   </tr>
 </table>
